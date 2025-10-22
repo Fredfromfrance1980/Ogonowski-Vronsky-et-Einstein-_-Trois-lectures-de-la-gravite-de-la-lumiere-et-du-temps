@@ -19,7 +19,7 @@ Einstein — la gravité comme courbure de l’espace-temps,
 
 Ogonowski — la gravité comme tension électromagnétique généralisée,
 
-Vronsky (VLCC) — la gravité comme tension et mémoire du champ du temps.
+Vronsky (VLCC) — la gravité comme tension et mémoire du champ du temps-matière.
 
 L’objectif est de proposer une lecture unifiée du réel où lumière, masse et temps sont les facettes d’une même dynamique cohérente.
 
@@ -55,7 +55,7 @@ Einstein — gravity as the curvature of spacetime,
 
 Ogonowski — gravity as generalized electromagnetic tension,
 
-Vronsky (VLCC) — gravity as the tension and memory of the time field.
+Vronsky (VLCC) — gravity as the tension and memory of the time-matter field.
 
 The aim is to propose a unified interpretation of reality in which light, mass, and time appear as facets of the same coherent dynamic.
 
